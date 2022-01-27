@@ -1,0 +1,17 @@
+h1{
+    color: Navy;
+  }
+  
+  h2{
+    color: #db0000;
+  }
+  
+  p{
+    color: Black;
+    font-style: oblique;
+    font-family: monospace;
+  }
+  
+  ul{
+    color: #1a5614;
+  }
